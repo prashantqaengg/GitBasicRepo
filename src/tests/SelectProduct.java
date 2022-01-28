@@ -7,7 +7,4 @@ public class SelectProduct {
         String productArray[]=new String[]{"Mouse,","Keyboard","Remote"}
         System.out.prinln("Selected product is "productArray.get(1))
     }
-
-
-
 }
